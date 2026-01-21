@@ -1,8 +1,8 @@
 # Selamlar, ben Furkan Aydın! 👋
 
-[cite_start]**Bilişim Sistemleri Mühendisliği 3. Sınıf Öğrencisiyim** ve kariyerimi **Backend Development** üzerine şekillendiriyorum.
+**Bilişim Sistemleri Mühendisliği 3. Sınıf Öğrencisiyim** ve kariyerimi **Backend Development** üzerine şekillendiriyorum.
 
-[cite_start]Özellikle **NestJS ve Node.js** ekosisteminde ölçeklenebilir, modüler web mimarileri kurmaktan keyif alıyorum[cite: 15]. [cite_start]Ayrıca **Java (OOP)** temellerine sahibim ve **Yapay Zeka (Python)** alanında da kendimi geliştiriyorum[cite: 14, 16].Kariyer odağım NestJS olsa da, Python (FastAPI) ile veri odaklı ve yüksek performanslı backend servisleri geliştirmekte de yetkinim
+Özellikle **NestJS ve Node.js** ekosisteminde ölçeklenebilir, modüler web mimarileri kurmaktan keyif alıyorum. Ayrıca **Java (OOP)** temellerine sahibim ve **Yapay Zeka (Python)** alanında da kendimi geliştiriyorum. Kariyer odağım NestJS olsa da, **Python (FastAPI)** ile veri odaklı ve yüksek performanslı backend servisleri geliştirmekte de yetkinim.
 
 ---
 
@@ -34,16 +34,19 @@
 ### 🚀 Projelerim
 
 #### 🛍️ E-Ticaret Admin Paneli & API
-> [cite_start]**Teknolojiler:** NestJS, React, PostgreSQL, Docker [cite: 30]
-Modern bir e-ticaret sistemi için Backend ve Frontend geliştirmesi. [cite_start]JWT Auth ile güvenli kimlik doğrulama sistemi ve Docker ile konteynerize edilmiş yapı[cite: 31, 32, 33].
+> **Teknolojiler:** NestJS, React, PostgreSQL, Docker
+
+Modern bir e-ticaret sistemi için Backend ve Frontend geliştirmesi. JWT Auth ile güvenli kimlik doğrulama sistemi ve Docker ile konteynerize edilmiş yapı.
 
 #### 📈 Crypto Market Analyser
-> [cite_start]**Teknolojiler:** Python, Pandas, REST API [cite: 34]
-[cite_start]Kripto borsalarından anlık fiyat verilerini çeken ve ani fiyat değişimlerini yakalayıp analiz eden otomasyon botu[cite: 35, 36].
+> **Teknolojiler:** Python, Pandas, REST API
+
+Kripto borsalarından anlık fiyat verilerini çeken ve ani fiyat değişimlerini yakalayıp analiz eden otomasyon botu.
 
 #### 💰 Crypto Currency Tracker
-> [cite_start]**Teknolojiler:** Python, JSON, API Entegrasyonu [cite: 37]
-[cite_start]Global borsalardan (CoinGecko vb.) canlı verileri çekip işleyen ve finansal özet sunan takip aracı[cite: 38, 39].
+> **Teknolojiler:** Python, JSON, API Entegrasyonu
+
+Global borsalardan (CoinGecko vb.) canlı verileri çekip işleyen ve finansal özet sunan takip aracı.
 
 ---
 
@@ -60,7 +63,7 @@ Modern bir e-ticaret sistemi için Backend ve Frontend geliştirmesi. [cite_star
 
 Benimle projeler veya teknoloji sohbetleri için iletişime geçebilirsin:
 
-[cite_start]📧 **Email:** frknaydn3512@gmail.com [cite: 4]
-🔗 **LinkedIn:** [Profil Linkin Buraya]
+📧 **Email:** frknaydn3512@gmail.com
+🔗 **LinkedIn:** [[v](https://www.linkedin.com/in/furkan-ayd%C4%B1n-611a8b230/)
 
 ---
